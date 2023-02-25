@@ -12,8 +12,5 @@
   "dependencies": {
     "http-server": "^14.1.1",
     "sirv-cli": "^2.0.2"
-  },
-  "devDependencies": {
-    "cypress": "^12.6.0"
   }
 }
